@@ -9,3 +9,5 @@ hyper_tuning -- Random forest hyperparamenter tuning
 data_exploration -- plots and other exploratory analysis  
 plots -- plots  
 Predicting_Length_of_Stay_Paper -- write-up of analysis
+
+The MIMIC database usage agreement explictly forbids sharing the protected data itself.
